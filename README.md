@@ -1,2 +1,1 @@
-trial1
-======
+Notes for Machine Learning Course on Coursera
